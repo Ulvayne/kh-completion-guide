@@ -1,0 +1,17 @@
+span {
+    text-shadow: 1px 1px 3px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+span.fire {
+    color: red;
+}
+
+span.blizzard {
+    color: aqua;
+}
+
+span.thunder {
+    color: yellow;
+}
